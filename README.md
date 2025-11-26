@@ -1,8 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=220&section=header&text=Hi%20%20I'm%20Brian%20Chege&fontSize=70&fontColor=ffffff&fontAlign=50" alt="Header" width="100%" />
+</div>
 
-<h1>Hi, I'm <a href="https://github.com/BC-254">Brian Chege</a>! 👋</h1>
+<div align="center">
 
-<h3> 🚀 Actuarial Analyst | Data Scientist | Data Analyst </h3>
+<h3>  Actuarial Analyst | Data Scientist | Data Analyst </h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=BC-254&label=Profile%20Views&color=0e75b6&style=flat" alt="BC-254" />
@@ -45,28 +47,31 @@ I am a motivated and detail-oriented professional, currently bridging the gap be
 
 ---
 
-### 📈 GitHub Stats
-
+### 📉 Coding Activity Graph
 <div align="center">
-<a href="https://github.com/BC-254">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=BC-254&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/BC-254">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BC-254&layout=compact&theme=dracula" />
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BC-254&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
-<br>
-
-<div align="center"> 
- 
+ ---
 ### 🌐 Connect with Me
 
 <a href="https://linkedin.com/in/bchege">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:bchege55200@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</div>
+
+---
+### 💭 Daily Inspiration
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirational Quote" />
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%" />
 </div>
