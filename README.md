@@ -7,7 +7,7 @@
 <h3>  Actuarial Analyst | Data Scientist | Data Analyst </h3>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=BC-254&label=Profile%20Views&color=0e75b6&style=flat" alt="BC-254" />
+ 
 </p>
 
 <p width="50%">
