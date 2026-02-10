@@ -12,19 +12,23 @@
 
 <p width="50%">
 <br>
-I am a motivated and detail-oriented professional, currently bridging the gap between Actuarial Science and Data Science. My passion lies in applying mathematical rigor and statistical principles to solve real-world problems in insurance, pension, and financial risk management. With a strong foundation in risk analysis and a certification in Data Science, I specialize in transforming complex datasets into actionable financial insights using predictive modeling and modern visualization tools.
+I specialize in a unique form of digital alchemy where I transform complex, raw data of financial risk into elegant and interactive experiences. By fusing deep statistical analysis and predictive backend modeling in Python with the design power of HTML, CSS, and JavaScript, I turn static numbers into living insights. Currently, I am pushing these boundaries further by exploring Kotlin, aiming to engineer the next generation of not only intelligent but also native applications that put financial foresight in the palm of your hand.
 
 
 </p>
 </div>
 
----
-
-### 🛠️ Languages and Tools
+______________
+### **Languages and Tools**
+______________
 <div align="center">
 
 <br> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 
 <br> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -42,43 +46,51 @@ I am a motivated and detail-oriented professional, currently bridging the gap be
 
 </div>
 
----
 
-### 📊 About Me
+_____________
+### **About Me**
+_____________
 
-- 🐍 **Python:** My second language. My first is sarcasm.
-- 📉 **Hobbies:** Overfitting models and underestimating deadlines.
-- 🔍 **Current Project:** Trying to make an AI that explains why my other AI is hallucinating.
-- ⚡ **Superpower:** I can stare at a CSV file until it confesses its secrets.
-- 📉 Fun fact: **Man Utd is the only statistical outlier I can't normalize!**
-
-🌱 I’m currently learning on how to **Create Intelligent Apps using Kotlin**
-👯 I’m looking to collaborate on  **Financial Modeling, Data Science or any other open-source software projects**
+ *  🐍 **Python:** My second language. My first is sarcasm.
+ *  📉 **Hobbies:** Overfitting models and underestimating deadlines.
+ *  🔍 **Current Project:** Trying to make an AI that explains why my other AI is hallucinating.
+ *  🚀 **Superpower:** I can stare at a CSV file until it confesses its secrets.
+ *  📉 **Fun fact:** Man Utd is the only statistical outlier I can't normalize!
 
 
+I’m currently learning on how to *Create Intelligent Apps using Kotlin*
 
-### 🛡️ Character Profile: Brian Chege
+I am also looking to collaborate on  *Financial Modeling, Data Science or any other open-source software projects*
 
-**Class:** Level 12 Data Wizard  
-**Guild:** Open Source Contributors
+
+
+**Character Profile: Brian Chege**
+
+<div align="center">
+
+*Class:* Level 12 Data Wizard  
+*Guild:* Open Source Contributors
 
 | Stat | Level | Notes |
 | :--- | :--- | :--- |
-| **Strength** | 2/10 | Can lift a heavy laptop. |
-| **Intelligence** | 8/10 | Increases to 10/10 after coffee. |
-| **Charisma** | 4/10 | I talk to computers more than people. |
-| **Luck** | -5/10 | Deploys on Fridays. |
+| Strength | 2/10 | Can lift a heavy laptop. |
+| Intelligence | 8/10 | Increases to 10/10 after coffee. |
+| Charisma | 4/10 | I talk to computers more than people. |
+| Luck | -5/10 | Deploys on Fridays. |
+
+</div>
 
 **Current Quest:** Defeating the final boss, `NullPointerException`.
----
 
-### 📉 Coding Activity Graph
+--------------------
+### **Coding Activity Graph**
+--------
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BC-254&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
  ---
-### 🌐 Connect with Me
+### **Connect with Me**
 
 <a href="https://linkedin.com/in/bchege">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -91,7 +103,7 @@ I am a motivated and detail-oriented professional, currently bridging the gap be
 </div>
 
 ---
-### 💭 Daily Inspiration
+### **Daily Inspiration**
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Inspirational Quote" />
 </div>
