@@ -33,6 +33,12 @@ I am a motivated and detail-oriented professional, currently bridging the gap be
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-31648C?style=for-the-badge&logo=Tableau&logoColor=white" />
+
+<br> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
 
@@ -40,11 +46,30 @@ I am a motivated and detail-oriented professional, currently bridging the gap be
 
 ### 📊 About Me
 
-- 🔭 I’m currently working on **Analyzing historical inflation rates and their impact on purchasing power**
-- 🌱 I’m currently learning on how to **Create Intelligent Apps using Kotlin**
-- 👯 I’m looking to collaborate on  **Financial Modeling, Data Science or any other open-source software projects**
-- ⚡ Fun fact: **Man Utd is the only statistical outlier I can't normalize!**
+- 🐍 **Python:** My second language. My first is sarcasm.
+- 📉 **Hobbies:** Overfitting models and underestimating deadlines.
+- 🔍 **Current Project:** Trying to make an AI that explains why my other AI is hallucinating.
+- ⚡ **Superpower:** I can stare at a CSV file until it confesses its secrets.
+- 📉 Fun fact: **Man Utd is the only statistical outlier I can't normalize!**
 
+🌱 I’m currently learning on how to **Create Intelligent Apps using Kotlin**
+👯 I’m looking to collaborate on  **Financial Modeling, Data Science or any other open-source software projects**
+
+
+
+### 🛡️ Character Profile: Brian Chege
+
+**Class:** Level 12 Data Wizard  
+**Guild:** Open Source Contributors
+
+| Stat | Level | Notes |
+| :--- | :--- | :--- |
+| **Strength** | 2/10 | Can lift a heavy laptop. |
+| **Intelligence** | 8/10 | Increases to 10/10 after coffee. |
+| **Charisma** | 4/10 | I talk to computers more than people. |
+| **Luck** | -5/10 | Deploys on Fridays. |
+
+**Current Quest:** Defeating the final boss, `NullPointerException`.
 ---
 
 ### 📉 Coding Activity Graph
