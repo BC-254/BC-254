@@ -73,14 +73,14 @@ I am also looking to collaborate on  *Financial Modeling, Data Science or any ot
 
 | Stat | Level | Notes |
 | :--- | :--- | :--- |
-| Strength | 2/10 | Can lift a heavy laptop. |
+| Strength | 7/10 | Can lift a heavy laptop. |
 | Intelligence | 8/10 | Increases to 10/10 after coffee. |
-| Charisma | 4/10 | I talk to computers more than people. |
+| Charisma | 7/10 | Even though I talk to computers more than people. |
 | Luck | -5/10 | Deploys on Fridays. |
 
 </div>
 
-**Current Quest:** Defeating the final boss, `NullPointerException`.
+**Current Quest:** Exploring android architectures using Kotlin..
 
 --------------------
 ### **Coding Activity Graph**
