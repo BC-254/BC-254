@@ -12,7 +12,7 @@
 
 <p width="50%">
 <br>
-I specialize in a unique form of digital alchemy where I transform complex, raw data of financial risk into elegant and interactive experiences. By fusing deep statistical analysis and predictive backend modeling in Python with the design power of HTML, CSS, and JavaScript, I turn static numbers into living insights. Currently, I am pushing these boundaries further by exploring Kotlin, aiming to engineer the next generation of not only intelligent but also native applications that put financial foresight in the palm of your hand.
+I specialize in a unique form of digital alchemy where I transform complex, raw data of financial risk into elegant and interactive experiences. By fusing deep statistical analysis and predictive modeling in Python with the design power of HTML, CSS and JavaScript, I turn static numbers into living insights. I am currently pushing these boundaries further by exploring Kotlin so as to engineer the next generation of not only intelligent but also native applications that put financial foresight in the palm of your hand.
 
 
 </p>
@@ -52,15 +52,15 @@ _____________
 _____________
 
  *  🐍 **Python:** My second language. My first is sarcasm.
- *  📉 **Hobbies:** Overfitting models and underestimating deadlines.
+ *  📉 **Hobbies:** Constantly overfitting models and underestimating deadlines.
  *  🔍 **Current Project:** Trying to make an AI that explains why my other AI is hallucinating.
- *  🚀 **Superpower:** I can stare at a CSV file until it confesses its secrets.
+ *  🚀 **Superpower:** I don't see players; I see $E[X]$ and a very high probability of disappointment.
  *  📉 **Fun fact:** Man Utd is the only statistical outlier I can't normalize!
 
 
 I’m currently learning on how to *Create Intelligent Apps using Kotlin*
 
-I am also looking to collaborate on  *Financial Modeling, Data Science or any other open-source software projects*
+I am also looking to collaborate on  *Financial Modeling, Machine Learning or any other software projects*
 
 
 
@@ -76,7 +76,7 @@ I am also looking to collaborate on  *Financial Modeling, Data Science or any ot
 | Strength | 7/10 | Can lift a heavy laptop. |
 | Intelligence | 8/10 | Increases to 10/10 after coffee. |
 | Charisma | 7/10 | Even though I talk to computers more than people. |
-| Luck | -5/10 | Deploys on Fridays. |
+| Luck | -5/10 | I Deploy on Fridays. |
 
 </div>
 
